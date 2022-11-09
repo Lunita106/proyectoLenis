@@ -9,6 +9,9 @@
 		<h1>
 			EMPLEADOS
 		</h1>
+		Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+		<h1>
+		</h1>
 	</div>
 	<div class="titulo_nuevo">
 		<form name="forNuevo" method="post" action="empleado_nuevo.php">
